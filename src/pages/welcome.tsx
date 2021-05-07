@@ -31,7 +31,7 @@ export function Welcome() {
         </Text>
         <Image style={styles.image} source={wateringImg} resizeMode="contain" />
         <Text style={styles.subtitle}>
-          Não esqueça mais de regar suas plantas. Nós cuidamos de lambrar você
+          Não esqueça mais de regar suas plantas. Nós cuidamos de lembrar você
           sempre que precisar.
         </Text>
         <TouchableOpacity
